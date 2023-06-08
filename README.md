@@ -1,4 +1,4 @@
-Random GIF Generator using Custom Hook in React
+#Random GIF Generator using Custom Hook in React
 This repository contains a simple Random GIF Generator application built with React, utilizing a custom hook. The application allows users to generate and display random GIFs from the GIPHY API.
 
 Features
